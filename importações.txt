@@ -1,0 +1,1 @@
+O arquivo importações.py é o programa que foi desenvolvido em python para tratamento dos dados recebidos e criação da interface de pesquisa.
