@@ -1,3 +1,3 @@
-# **SPRINT 3**
+# **SPRINT 4**
 
-### Criação dos indicadores de recência, consistência e confidencialidade, que mostram a data de quando o dado foi enviado, qual a relação desse dado com outras tabelas e se ele está devidamente criptografado ou se está desprotegido.
+### Criação dos indicadores de negócio de operação, movimentação e pagamento, além de identificar a quantidade de erros de processamento.
