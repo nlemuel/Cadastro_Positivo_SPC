@@ -11,8 +11,14 @@
 
 
 
-https://github.com/nlemuel/Cadastro_Positivo_SPC/tree/sprint-1 - 1019321
-
+|Sprint   | Data de entrega  |
+|---|---|
+| [1] [https://github.com/nlemuel/Cadastro_Positivo_SPC/tree/sprint-1]  | 16/03/2020 - 20/03/2020  |
+| [2] [https://github.com/nlemuel/Cadastro_Positivo_SPC/tree/sprint-2] | 11/05/2020 - 15/05/2020  |
+|  3 |  25/05/2020 - 29/06/2020 |
+|  4 | 08/06/2020 - 12/06/2020   |
+|  5 | 22/06/2020 - 26/06/2020  |
+|  6 | 06/07/2020 - 10/07/2020  |
 
 
 
