@@ -1,4 +1,4 @@
-![spcbrasillogo](https://user-images.githubusercontent.com/53242511/81332408-6f3e0700-9079-11ea-8282-9667e3b7eeda.jpg)
+
 # **Matérias integradas**
 ### Engenharia de software: Prof. Giuliano Bertoti
 ### Linguagem de Progamação: Profª. Juliana Martinez
