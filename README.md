@@ -12,18 +12,18 @@
 ### **P.O:** Nicolas Lemuel
 ### **Desenvolvedores:** João Rabello e Pedro Cruz
 
-# **Entregas**
+# **Cronograma**
 
-|Sprint   | Data de entrega  |
+| Entrega | Data |
 |---|---|
-| [Primeiro sprint](https://github.com/nlemuel/Cadastro_Positivo_SPC/tree/sprint-1)  | 16/03/2020 - 20/03/2020 |
-| [Segundo sprint](https://github.com/nlemuel/Cadastro_Positivo_SPC/tree/sprint-2) | 11/05/2020 - 15/05/2020  |
-|  Terceiro sprint  |  25/05/2020 - 29/06/2020 |
-|  Quarto sprint  | 08/06/2020 - 12/06/2020  |
-|  Quinto sprint  | 22/06/2020 - 26/06/2020  |
-|  Sexto sprint   | 06/07/2020 - 10/07/2020  |
+| [1 sprint](https://github.com/nlemuel/Cadastro_Positivo_SPC/tree/sprint-1)  | 16/03/2020 - 20/03/2020 |
+| [2 sprint](https://github.com/nlemuel/Cadastro_Positivo_SPC/tree/sprint-2) | 11/05/2020 - 15/05/2020  |
+| 3 sprint | 25/05/2020 - 29/06/2020 |
+| 4 sprint | 08/06/2020 - 12/06/2020 |
+| 5 sprint | 22/06/2020 - 26/06/2020 |
+| 6 sprint | 06/07/2020 - 10/07/2020 |
 
-
+ 
 
 
 
