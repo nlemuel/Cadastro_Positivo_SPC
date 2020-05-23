@@ -9,7 +9,7 @@
 ### **P.O:** Nicolas Lemuel
 ### **Desenvolvedores:** João Rabello e Pedro Cruz
 
-
+# **Entregas**
 
 |Sprint   | Data de entrega  |
 |---|---|
