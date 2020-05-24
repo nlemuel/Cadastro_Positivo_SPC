@@ -1,5 +1,5 @@
 <p align="center">
-<img width="560" height="300" src="https://user-images.githubusercontent.com/53242511/81332408-6f3e0700-9079-11ea-8282-9667e3b7eeda.jpg">
+<img width="500" height="200" src="https://user-images.githubusercontent.com/53242511/81332408-6f3e0700-9079-11ea-8282-9667e3b7eeda.jpg">
 </p>  
 
 # **Smart Filter**
