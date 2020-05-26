@@ -1,3 +1,3 @@
-|Sprint 1|
-|---|
-|Neste primeiro sprint realizamos a análise os dados que recebemos pela SPC Brasil (Tabelas, arquivos ppt), definir as tecnologias que usaremos além de definir o ambiente que manipularemos os dados e gerar valor através deles|
+<p align="center">
+<img src="https://user-images.githubusercontent.com/53242511/82916064-ed3e5100-9f47-11ea-8967-a62568df50ac.jpeg">
+</p>  
