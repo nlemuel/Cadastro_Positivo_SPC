@@ -1,3 +1,3 @@
-|Sprint 3|
-|---|
-|Criação dos indicadores de recência, consistência e confidencialidade, que mostram a data de quando o dado foi enviado, qual a relação desse dado com outras tabelas e se ele está devidamente criptografado ou se está desprotegido   |
+<p align="center">
+<img src="https://user-images.githubusercontent.com/53242511/82916426-68076c00-9f48-11ea-9d79-c023932c5af0.jpeg">
+</p> 
