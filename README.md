@@ -37,8 +37,7 @@
 
 |Entrega   |MVP   |Grau de dificuldade   |Data de entrega   |
 |---|---|---|---|
-|[1 sprint](https://github.com/nlemuel/Cadastro_Positivo_SPC/tree/sprint-1)|Analisar os dados que recebemos pela SPC Brasil (Tabelas, arquivos ppt), definir as tecnologias que usaremos além de definir o ambiente que
-manipularemos os dados e gerar valor através deles|40/100|20/03/2020|
+|[1 sprint](https://github.com/nlemuel/Cadastro_Positivo_SPC/tree/sprint-1)|Analisar os dados que recebemos pela SPC Brasil (Tabelas, arquivos ppt), definir as tecnologias que usaremos além de definir o ambiente que manipularemos os dados e gerar valor através deles|40/100|20/03/2020|
 |[2 sprint](https://github.com/nlemuel/Cadastro_Positivo_SPC/tree/sprint-2)|Criação do código para extrair dados e fazer com que cheguem com mais clareza, nesta etapa colocamos os indicadores de completude, integridade e confiabilidade, que mostram se os dados estão completos, íntegros(condizem o não com a realidade) e confiáveis, respectivamente|60/100|15/05/2020|
 |[3 sprint](https://github.com/nlemuel/Cadastro_Positivo_SPC/tree/sprint-3)|Criação dos indicadores de recência, consistência e confidencialidade, que mostram a data de quando o dado foi enviado, qual a relação desse dado com outras tabelas e se ele está devidamente criptografado ou se está desprotegido|80/100|29/06/2020|
 |[4 sprint](https://github.com/nlemuel/Cadastro_Positivo_SPC/tree/sprint-4)|Criação dos indicadores de negócio de operação, movimentação e pagamento, além de identificar a quantidade de erros de processamento|70/100|12/06/2020|
