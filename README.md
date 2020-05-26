@@ -1,3 +1,3 @@
-|Sprint 6|
-|---|
-|Melhoria da documentação, estética e correção de pequenos erros, criação de um tutorial de como usar o programa e fazer com que gere informações úteis de acordo com o Cadastro Positivo, finalização do projeto e demonstração |
+<p align="center">
+<img src="https://user-images.githubusercontent.com/53242511/82916970-24f9c880-9f49-11ea-93e4-d8acb956ec1f.jpeg">
+</p> 
