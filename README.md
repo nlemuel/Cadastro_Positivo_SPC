@@ -38,14 +38,12 @@
 |Entrega   |MVP   |Grau de dificuldade   |Data de entrega   |
 |---|---|---|---|
 |[1 sprint](https://github.com/nlemuel/Cadastro_Positivo_SPC/tree/sprint-1)|Analisar os dados que recebemos pela SPC Brasil (Tabelas, arquivos ppt), definir as tecnologias que usaremos além de definir o ambiente que
-manipularemos os dados e gerar valor através deles|40/100|16/03/2020 - 20/03/2020|
-|[2 sprint](https://github.com/nlemuel/Cadastro_Positivo_SPC/tree/sprint-2)|Criação do código para extrair dados e fazer com que cheguem com mais clareza, nesta etapa colocamos os indicadores de completude, integridade
-e confiabilidade, que mostram se os dados estão completos, íntegros(condizem ou não com a realidade) e confiáveis, respectivamente|60/100|11/05/2020 - 15/05/2020|
-|[3 sprint](https://github.com/nlemuel/Cadastro_Positivo_SPC/tree/sprint-3)|Criação dos indicadores de recência, consistência e confidencialidade, que mostram a data de quando o dado foi enviado, qual a relação desse dado com outras tabelas e se ele está 
-devidamente criptografado ou se está desprotegido|80/100|25/05/2020 - 29/06/2020|
-|[4 sprint](https://github.com/nlemuel/Cadastro_Positivo_SPC/tree/sprint-4)|Criação dos indicadores de negócio de operação, movimentação e pagamento, além de identificar a quantidade de erros de processamento|70/100|08/06/2020 - 12/06/2020|
-|[5 sprint](https://github.com/nlemuel/Cadastro_Positivo_SPC/tree/sprint-5)|Criação do perfil de consumidores, identificando suas têndencias e seu comportamento especifico através da informação gerada, e através desta informação, criar gráficos para melhor visualização do perfil de consumidor|60/100|22/06/2020 - 26/06/2020|
-|[6 sprint](https://github.com/nlemuel/Cadastro_Positivo_SPC/tree/sprint-6)|Melhoria da documentação, estética e correção de pequenos erros, criação de um tutorial de como usar o programa e fazer com que gere informações úteis de acordo com o Cadastro Positivo, finalização do projeto e demonstração|50/100|06/07/2020 - 10/07/2020|
+manipularemos os dados e gerar valor através deles|40/100|20/03/2020|
+|[2 sprint](https://github.com/nlemuel/Cadastro_Positivo_SPC/tree/sprint-2)|Criação do código para extrair dados e fazer com que cheguem com mais clareza, nesta etapa colocamos os indicadores de completude, integridade e confiabilidade, que mostram se os dados estão completos, íntegros(condizem o não com a realidade) e confiáveis, respectivamente|60/100|15/05/2020|
+|[3 sprint](https://github.com/nlemuel/Cadastro_Positivo_SPC/tree/sprint-3)|Criação dos indicadores de recência, consistência e confidencialidade, que mostram a data de quando o dado foi enviado, qual a relação desse dado com outras tabelas e se ele está devidamente criptografado ou se está desprotegido|80/100|29/06/2020|
+|[4 sprint](https://github.com/nlemuel/Cadastro_Positivo_SPC/tree/sprint-4)|Criação dos indicadores de negócio de operação, movimentação e pagamento, além de identificar a quantidade de erros de processamento|70/100|12/06/2020|
+|[5 sprint](https://github.com/nlemuel/Cadastro_Positivo_SPC/tree/sprint-5)|Criação do perfil de consumidores, identificando suas têndencias e seu comportamento especifico através da informação gerada, e através desta informação, criar gráficos para melhor visualização do perfil de consumidor|60/100|26/06/2020|
+|[6 sprint](https://github.com/nlemuel/Cadastro_Positivo_SPC/tree/sprint-6)|Melhoria da documentação, estética e correção de pequenos erros, criação de um tutorial de como usar o programa e fazer com que gere informações úteis de acordo com o Cadastro Positivo, finalização do projeto e demonstração|50/100|10/07/2020|
 
 
 ## **Ferramentas utilizadas**
