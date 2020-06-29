@@ -41,7 +41,7 @@
 |[2 sprint](https://github.com/nlemuel/Cadastro_Positivo_SPC/tree/sprint-2)|Criação do código para extrair dados e fazer com que cheguem com mais clareza, nesta etapa colocamos os indicadores de completude, integridade e confiabilidade, que mostram se os dados estão completos, íntegros(condizem o não com a realidade) e confiáveis, respectivamente|60/100|15/05/2020|
 |[3 sprint](https://github.com/nlemuel/Cadastro_Positivo_SPC/tree/sprint-3)|Criação dos indicadores de recência, consistência e confidencialidade, que mostram a data de quando o dado foi enviado, qual a relação desse dado com outras tabelas e se ele está devidamente criptografado ou se está desprotegido|80/100|29/05/2020|
 |[4 sprint](https://github.com/nlemuel/Cadastro_Positivo_SPC/tree/sprint-4)|Junção da análise das tabelas de dados e reunir idéias sobre como usar as duas para obter uma informação em comum|70/100|12/06/2020|
-|[5 sprint](https://github.com/nlemuel/Cadastro_Positivo_SPC/tree/sprint-5)|Criação do perfil de consumidores, identificando suas têndencias e seu comportamento especifico através da informação gerada, e através desta informação, criar gráficos para melhor visualização do perfil de consumidor|60/100|26/06/2020|
+|[5 sprint](https://github.com/nlemuel/Cadastro_Positivo_SPC/tree/sprint-5)|Mudanças na interface gráfica e preparação para integração com o Electron JS |60/100|26/06/2020|
 |[6 sprint](https://github.com/nlemuel/Cadastro_Positivo_SPC/tree/sprint-6)|Melhoria da documentação, estética e correção de pequenos erros, criação de um tutorial de como usar o programa e fazer com que gere informações úteis de acordo com o Cadastro Positivo, finalização do projeto e demonstração|50/100|10/07/2020|
 
 
